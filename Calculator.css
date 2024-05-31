@@ -1,0 +1,31 @@
+# calculator css
+
+body{
+    text-align: center;
+    
+    
+}
+.calc{
+    border: 2px solid rgb(9, 238, 63);
+    border-radius: 20px;
+    height: 600px;
+    width: 500px;
+    margin: auto;
+}
+h1{
+    font-size: xxx-large;
+}
+input{
+    height: 25px;
+    width: 260px;
+    border: 2px solid green;
+    border-radius: 20px;
+    text-align: center;
+}
+button{
+    height: 30px;
+    border: 2px solid green;
+    border-radius: 10px;
+    width: 190px;
+    margin: 20px;
+}
